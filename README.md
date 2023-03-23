@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Bienvenue sur mon profil GitHub !
+
+Je suis passionné par l'analyse de données et je possède des compétences solides en Python, SQL, Tableau, Cognos, Excel, ArcGIS et QGIS. J'ai travaillé sur de nombreux projets d'analyse de données, notamment dans le domaine de la finance, de la santé et de l'environnement.
+
+Actuellement, je suis à la recherche d'une opportunité d'alternance d'une durée de deux ans dans le domaine de l'analyse de données. J'ai hâte de mettre mes compétences en pratique dans un environnement professionnel et de continuer à développer mes compétences en tant que data analyst.
+
+Sur mon profil GitHub, vous trouverez mes projets les plus récents et les plus pertinents, démontrant mes compétences et mes connaissances en matière d'analyse de données. N'hésitez pas à parcourir mes projets et à me contacter si vous avez des commentaires ou des questions.
+
+Merci de votre intérêt pour mon profil, j'espère avoir l'occasion de collaborer avec vous dans un proche avenir.
