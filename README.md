@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 Bienvenue sur mon profil GitHub !
 
-Je suis passionné par l'analyse de données et je possède des compétences solides en Python, SQL, Tableau, Cognos, Excel, ArcGIS et QGIS. J'ai travaillé sur de nombreux projets d'analyse de données, notamment dans le domaine de la finance, de la santé et de l'environnement.
+Je suis passionné par l'analyse de données et je possède des compétences solides en Python, SQL, Tableau, Cognos, Excel, ArcGIS et QGIS. J'ai travaillé sur de nombreux projets d'analyse de données.
 
 Actuellement, je suis à la recherche d'une opportunité d'alternance d'une durée de deux ans dans le domaine de l'analyse de données. J'ai hâte de mettre mes compétences en pratique dans un environnement professionnel et de continuer à développer mes compétences en tant que data analyst.
 
